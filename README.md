@@ -1,5 +1,5 @@
 <details open>
-  <summary><h2> Welcome to my GitHub Profile!</h2></summary>
+  <summary><h2> Welcome to my GitHub!</h2></summary>
 
   <br />
 
