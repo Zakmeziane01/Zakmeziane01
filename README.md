@@ -13,7 +13,8 @@
 
   ### What I'm Currently Working On
   * **Zaka Coach:** An autonomous AI fitness agent.
-
+  ---
+  
   ### 🤝 Looking to Collaborate On
   I’m open to collaborating on projects involving:  
   * Predictive Analytics
@@ -25,7 +26,9 @@
   * **ML & Deep Learning:** PyTorch, TensorRT, YOLO, Vision/Detection Transformers, Scikit-learn, OpenCV, Keras
   * **LLM & NLP:** Hugging Face Transformers, LangChain, LangGraph, RAG, Fine-Tuning
   * **Infrastructure & Automation:** FastAPI, Docker, Linux, Git/GitHub/GitLab, CI/CD Pipelines, REST APIs, NumPy, Pandas, AWS
-
+    
+  ---
+  
   ### Publications
   *  *Releasing soon...*
 
