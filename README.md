@@ -27,7 +27,7 @@
   * **Infrastructure & Automation:** FastAPI, Docker, Linux, Git/GitHub/GitLab, CI/CD Pipelines, REST APIs, NumPy, Pandas, AWS
 
   ### Publications
-  * ⏳ *Releasing soon...*
+  *  *Releasing soon...*
 
   ---
 
