@@ -3,7 +3,7 @@
 
   <br />
 
-👋 **Hey there! I'm Zakaria Meziane.** 
+**Hey there! I'm Zakaria Meziane.** 
 
   I'm an AI/ML Engineer who genuinely enjoys turning complex, messy problems into structured, reliable systems through logical thinking and clean software engineering. My main focus is on building scalable GenAI systems, agentic architectures, and applied machine learning solutions. 
 
